@@ -1,0 +1,9 @@
+PROJECT {project_name} VERSION 1.0.0
+LANGUAGE {language} STANDARD {standard}
+COMPILER {compiler} FLAG -O2
+
+CREATE_EXECUTOR {project_name} main.{extension}
+
+# CREATE_LIB mylib src/mylib.cpp
+# INCLUDE_LIB lib/
+# INCLUDE_EXECUTOR {project_name} mylib

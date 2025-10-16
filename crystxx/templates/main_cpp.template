@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Hello from C++ project!" << std::endl;
+    std::cout << "Project: {project_name}" << std::endl;
+    return 0;
+}
