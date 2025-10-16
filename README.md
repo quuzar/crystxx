@@ -17,10 +17,10 @@ pip install -e .
 
 ```bash
 # Создать C++ проект
-crystxx --create --cpp MyProject
+crystxx --create MyProject --cpp 
 
 # Создать C проект
-crystxx --create --c MyCProject
+crystxx --create MyCProject --c 
 
 # Перейти в проект и собрать
 cd MyProject
