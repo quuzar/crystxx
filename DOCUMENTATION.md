@@ -29,10 +29,10 @@ crystxx --run
 ```
 
 ### Commands
-crystxx --create NAME --cpp - Create C++ project
-crystxx --create NAME --c  - Create C project
-crystxx --build - Build project
-crystxx --run - Run project
+`crystxx --create NAME --cpp - Create C++ project`
+`crystxx --create NAME --c  - Create C project`
+`crystxx --build - Build project`
+`crystxx --run - Run project`
 
 ## Config File (config.txt)
 ### Basic Structure
